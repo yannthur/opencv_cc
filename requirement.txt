@@ -1,0 +1,5 @@
+opencv-python
+numpy
+pyzbar
+streamlit
+Pillow
